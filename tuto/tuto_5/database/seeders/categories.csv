@@ -1,0 +1,6 @@
+name,description,is_active
+Product A,This is the description for Product A,TRUE
+Product B,Description for Product B goes here,FALSE
+Product C,Another example description,TRUE
+Product D,Description for Product D,FALSE
+Product E,Yet another example description,TRUE
